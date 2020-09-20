@@ -1,11 +1,10 @@
 # Site settings
-title: 'awesome title'
+title: 'Cecilia coding journey'
 description: 'description'
-keywords: 'Cecilia, blog, software'
+keywords: 'Cecilia, blog'
 url: 'https://Cecilia-xu.github.io' # your host
-
-# navigation
-nav: 
+# nav 中文字符空格：&emsp;
+nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   Home: '/'
   Tags: '/tags.html'
   Timeline: '/timeline.html'
