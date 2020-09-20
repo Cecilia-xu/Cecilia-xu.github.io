@@ -27,10 +27,10 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:xu_xiaoqian@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
-  #qq: '' 
+  qq: '' 
   github: 'https://github.com/Cecilia-xu'
-  #Codepen: ''
-  #weibo: ''
+  Codepen: ''
+  weibo: ''
   instagram: ''
   Twitter: ''
   Dribbble: ''
