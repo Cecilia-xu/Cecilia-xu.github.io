@@ -1,5 +1,5 @@
 # Site settings
-title: 'Cecilia's coding journey'
+title: 'awesome title'
 description: 'description'
 keywords: 'Cecilia, blog, software'
 url: 'https://Cecilia-xu.github.io' # your host
@@ -15,7 +15,7 @@ nav:
 # Author
 author: true
 name: 'Cecilia Xu'
-NickName: ''
+NickName: ' '
 webtitle: 'Cecilia coding journey'
 bio: 'your awesome bio'
 about: true
