@@ -4,33 +4,33 @@ description: 'description'
 keywords: 'Cecilia, blog'
 url: 'https://Cecilia-xu.github.io' # your host
 
-# nav 中文字符空格：&emsp;
-nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
+# navigation
+nav: 
   Home: '/'
   Tags: '/tags.html'
   Timeline: '/timeline.html'
   About me: '/about.html'
   Links: '/friendLink.html'
 
-# 博主
+# Author
 author: true
 name: 'Cecilia Xu'
-NickName: 'your awesome nickname'
+NickName: '茜茜'
 webtitle: 'Cecilia coding journey'
 bio: 'your awesome bio'
 about: true
-aboutyou: 'A girl'
+aboutyou: 'Hey. I am a software engineer in Los Angeles. I got my master's degree at University of Pittsburgh.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'mailto:xu_xiaoqian@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
+  #qq: '' 
+  github: 'https://github.com/Cecilia-xu'
+  #Codepen: ''
+  #weibo: ''
   instagram: ''
   Twitter: ''
   Dribbble: ''
