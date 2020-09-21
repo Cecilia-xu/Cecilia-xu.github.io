@@ -2,7 +2,7 @@
 title: 'Cecilia coding journey'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+url: 'https://cecilia-xu.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -17,7 +17,7 @@ author: true
 name: 'Cecilia Xu'
 NickName: ''
 webtitle: 'Cecilia coding journey'
-bio: 'Software engineer/SEUer/PITT/She'
+bio: 'Software engineer, SEUer, PITT, She'
 about: true
 aboutyou: 'Cecilia is a software engineer at a tech company in Los Angeles. She got her Master's degree at University of Pittsburgh.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
