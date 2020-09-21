@@ -1,34 +1,34 @@
 # Site settings 配置站点
-title: 'Title'
-description: 'Cecilia's learnings in cs'
-keywords: 'cs, blog'
-url: 'https://cecilia-xu.github.io' # your host
+title: 'your awesome title'
+description: 'your web description'
+keywords: 'your web keywords, another keywords'
+url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Home: '/'
-  Tags: '/tags.html'
-  Timeline: '/timeline.html'
-  About me: '/about.html'
-  Links: '/friendLink.html'
+  首页: '/'
+  标签: '/tags.html'
+  时间线: '/timeline.html'
+  关于博主: '/about.html'
+  友情链接: '/friendLink.html'
 
-# Author
+# 博主
 author: true
-name: 'Cecilia Xu'
-NickName: ' '
-webtitle: 'Cecilia coding journey'
+name: 'your awesome name'
+NickName: 'your awesome nickname'
+webtitle: 'your awesome webtitle'
 bio: 'your awesome bio'
 about: true
-aboutyou: 'Hey. I am a software engineer in Los Angeles. I got my master's degree at University of Pittsburgh.'
+aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:xu_xiaoqian@outlook.com'
+  mail: 'mailto:abc@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' 
-  github: 'https://github.com/Cecilia-xu'
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: ''
   Codepen: ''
   weibo: ''
   instagram: ''
@@ -66,10 +66,10 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: false
+livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: true
+Gitment: false
 Gitment_owner: ''  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
@@ -88,3 +88,4 @@ google-ID: ''
 
 # 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
 color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
+
