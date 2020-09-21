@@ -1,4 +1,4 @@
-# Site settings 配置站点
+ # Site settings 配置站点
 title: 'Cecilia coding journey'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
@@ -14,10 +14,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
+name: 'Cecilia Xu'
+NickName: ''
 webtitle: 'Cecilia coding journey'
-bio: 'your awesome bio'
+bio: 'Cecilia is a software engineer in LA. She graduates from University of Pittsburgh.'
 about: true
 aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
