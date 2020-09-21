@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: "Title"
-description: "Cecilia's learnings in cs"
+title: 'Title'
+description: 'Cecilia's learnings in cs'
 keywords: 'cs, blog'
 url: 'https://cecilia-xu.github.io' # your host
 
