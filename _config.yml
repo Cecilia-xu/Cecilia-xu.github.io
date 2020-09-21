@@ -71,8 +71,8 @@ livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 Gitment: true
 Gitment_owner: 'Cecilia-xu'  # github用户名
 Gitment_repo: 'Cecilia-xu.github.io'  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+client_id: '324703712c8c106fed45'  # 注册 OAuth Application 后获得的 client_id
+client_secret: 'c2a80c620705ea167e50aa2f516f15c181cb2544'  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
