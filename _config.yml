@@ -19,7 +19,7 @@ NickName: ''
 webtitle: 'Cecilia coding journey'
 bio: 'Software engineer, SEUer, PITT, She/Her/Hers'
 about: true
-aboutyou: "Cecilia is currently a software engineer in Los Angeles. She got her master's degree in Information Science at University of Pittsburgh."
+aboutyou: "Cecilia is currently a software engineer in Los Angeles. She got her master's degree in Information Science at University of Pittsburgh.<br> Fun facts about her: <br><ul><li>Coffee</li><li>Tea</li><li>Milk</li></ul>"
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
