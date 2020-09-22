@@ -1,2 +1,2 @@
 # My Blog
-http：//cecilia-xu.github.io
+http://cecilia-xu.github.io
