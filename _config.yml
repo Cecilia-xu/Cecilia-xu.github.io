@@ -12,14 +12,14 @@ nav:
   About me: '/about.html'
   Links: '/friendLink.html'
 
-# 博主
+# Author
 author: true
 name: 'Cecilia Xu'
 NickName: ''
 webtitle: 'Cecilia coding journey'
-bio: 'Software engineer, SEUer, PITT, She'
+bio: 'Software engineer, SEUer, PITT, She/Her/Hers'
 about: true
-aboutyou: "Cecilia is currently a software engineer in Los Angeles. She got her master's degree at University of Pittsburgh."
+aboutyou: "Cecilia is currently a software engineer in Los Angeles. She got her master's degree in Information Science at University of Pittsburgh."
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
