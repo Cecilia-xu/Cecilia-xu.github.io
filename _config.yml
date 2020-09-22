@@ -7,8 +7,8 @@ url: 'https://cecilia-xu.github.io' # your host
 # nav 
 nav: 
   Home: '/'
-  Category: '/tags.html'
-  Timeline: '/timeline.html'
+  Categories: '/tags.html'
+  Timelines: '/timeline.html'
   About me: '/about.html'
   Links: '/friendLink.html'
 
