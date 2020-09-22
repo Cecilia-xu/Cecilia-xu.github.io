@@ -1,7 +1,7 @@
  # Site settings 
 title: "Cecilia's coding journey"
 description: 'your web description'
-keywords: 'your web keywords, another keywords'
+keywords: 'blog, software engineer'
 url: 'https://cecilia-xu.github.io' # your host
 
 # nav 
@@ -16,7 +16,7 @@ nav:
 author: true
 name: 'Cecilia Xu'
 NickName: ''
-webtitle: 'Cecilia coding journey'
+webtitle: "Cecilia's coding journey"
 bio: 'Software engineer, SEUer, PITT, She/Her/Hers'
 about: true
 aboutyou: "I am currently a software engineer in Los Angeles. I got my master's degree in Information Science at University of Pittsburgh.<br> Fun facts about me: <br>1. My undergraduate major is Finance. <br>2. My favorite singer is Avril Lavigne! <br> 3. I landed my job during COVID-19 pandemic." 
@@ -27,17 +27,8 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:xu_xiaoqian@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
+  github: 'https://github.com/Cecilia-xu'
   Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
 
 # 分页
 paginate: 2
@@ -45,45 +36,38 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2020
 
 # Markdown
 markdown: kramdown
 kramdown:
   input: GFM
-# 代码高亮 使用rouge
+# Code highlighter by rouge
 highlighter: rouge
-# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
+# Code themes by pygments: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 
 pygmentsTheme: 'default'
 
-# 友情链接
+# Friend Link
 friends:
   jekyll: 'https://www.jekyll.com.cn/'
 
-# 评论 最佳体验 在disqus、livere和Gitment之间三选一
-# disqus 评论
+# Comments, choose from disqus,livere, and Gitment
+# disqus
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
-# 来必力评论
+# livere
 livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
-# Gitment评论 OAuth Application
+# Gitment OAuth Application
 Gitment: true
-Gitment_owner: 'Cecilia-xu'  # github用户名
-Gitment_repo: 'Cecilia-xu.github.io'  # github博客存放的仓库名
+Gitment_owner: 'Cecilia-xu'  # github username
+Gitment_repo: 'Cecilia-xu.github.io'  #git repo name
 client_id: '324703712c8c106fed45'  # 注册 OAuth Application 后获得的 client_id
 client_secret: 'c2a80c620705ea167e50aa2f516f15c181cb2544'  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
 social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
-
-# 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
-baidu-url: ''
-# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
-google: false
-google-ID: ''
 
 # 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
 color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
