@@ -60,7 +60,7 @@ livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment OAuth Application
 Gitment: true
 Gitment_owner: 'Cecilia-xu'  # github username
-Gitment_repo: 'Cecilia-xu.github.io'  #git repo name
+Gitment_repo: 'Cecilia-xu/Cecilia-xu.github.io'  #git repo name
 client_id: '324703712c8c106fed45'  # 注册 OAuth Application 后获得的 client_id
 client_secret: 'c2a80c620705ea167e50aa2f516f15c181cb2544'  # 注册 OAuth Application 后获得的 client_secret
 
