@@ -56,7 +56,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # livere
 livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
+livere_uid: 'MTAyMC81MTYxMS8yODA5Mg==' # MTAyMC81MTYxMS8yODA5Mg==
 # Gitment OAuth Application
 Gitment: false
 Gitment_owner: 'Cecilia-xu'  # github username
