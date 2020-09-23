@@ -28,7 +28,6 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   mail: 'mailto:xu_xiaoqian@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
   github: 'https://github.com/Cecilia-xu'
-  linkedin: ''
 
 # 分页
 paginate: 2
